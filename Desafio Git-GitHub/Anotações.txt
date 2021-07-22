@@ -1,0 +1,7 @@
+Git Bash
+
+O Git Bash é um terminal para trabalhar comandos Git e fazer a ponte entre repositório local e GitHub
+
+Download Git Bash:
+
+O link para download do Git Bash é: https://git-scm.com/downloads
